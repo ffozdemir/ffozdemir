@@ -1,7 +1,5 @@
 Hi 👋, I'm Fetullah Furkan
 
-Full Stack Java Developer | Spring | Hibernate | PostgreSQL | React.js | Git
-
 - 💻 Passionate about developing user-focused, high-performance applications
 - 🚀 Committed to continuous learning and adaptability in the ever-evolving tech landscape
 - 📫 How to reach me: **fetullahfurkanozdemir@gmail.com**
